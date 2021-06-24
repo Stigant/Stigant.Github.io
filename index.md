@@ -12,7 +12,7 @@ __Imperial College.__
 * Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
 * Research focused on birational geometry in novel settings in particular mixed and positive characteristics
 * Published two papers based upon independent research
-* Collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
+* Currently collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
 
 ### MMath 
 `01/10/2014 - 30/06/2018 | Oxford - United Kingdom`
