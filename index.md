@@ -4,25 +4,10 @@ title: Liam Stigant CV
 ---
 # Liam Stigant
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
 ### PhD
-`01/10/2018-Present`
+`01/10/2018-Present | London - United Kingdom`
 __Imperial College.__
 * Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
 * Research focused on birational geometry in novel settings in particular mixed and positive characteristics
@@ -30,12 +15,46 @@ __Imperial College.__
 * Collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
 
 ### MMath 
-`01/10/2014 - 30/06/2018`
+`01/10/2014 - 30/06/2018 | Oxford - United Kingdom`
 __Jesus College, Oxford University__
 - Grade: First (90%)
 
+### Online Courses
+`2021`
+__Data Scientist Nanodegree__
+*Udacity*
+- Intermediate course on data science in Python
+- Several open ended projects, code and writeups available on my Github page
 
+`2020`
+__Data Scientist with Python__
+*Data Camp*
+- Introductory course on data science in Python
+- Focused on Pandas, Seaborn and Sklearn
 
+## Work Experience 
+`01/10/2020-Present | London - United Kingdom`
+__Treasury Committee Member__
+*Notting Hill Genesis*
+* Help to ensure the interests and needs of NHG residents are appropriately considered
+* Deal with long term financing of the association, in particular the issuance of debt - both secured facilities and long term bonds
+* Handle broader financial concerns e.g. NHG pension arrangements
+
+`01/07/2017-14/09/2017 | Ipswich - United Kingdom`
+__Research Intern__
+*British Telecom*
+* Focused on the precoding problem - altering cable signals to account for crosstalk between bundled wires
+* Developed novel methods of my own as well as improving upon implementation of existing methods
+* Published the paper "Spatially adaptive linear precoding for systems beyond G.Fast"
+* Secured the patent "Method and Apparatus for Transmitting Data in a Communication System"
+* Work was standardised for use in G.(mg)fast by the International Telecommunication Union
+
+`14/07/2017-31/08/2017 | Oxford - United Kingdom`
+__Summer Research Student__
+*Oxford University*
+* Undertook a summer research project in Hilbert Spaces, funded by a grant from the EPSRC
+* Worked closely with several others, developing strong communication and team-working Skills
+* Published "Non-optimality of the Greedy Algorithm for subspace orderings in the method of alternating projections" with several other students
 
 ## Awards
 
@@ -90,7 +109,7 @@ __Oxford Blue__
 * Iterative method for vectored precoding of data to compensate for channel cross-talk
 * Identifies and restricts poor performing lines, then boosts signals through creative cross-talk from unused lines
 
-## Work Experience 
+
 
 
 
