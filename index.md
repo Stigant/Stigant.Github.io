@@ -32,7 +32,7 @@ __Imperial College.__
 ### MMath 
 `October 2014 - June 2018`
 __Jesus College, Oxford University__
--Grade: First (90%)
+- Grade: First (90%)
 
 
 
