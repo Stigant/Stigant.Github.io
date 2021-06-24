@@ -22,7 +22,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 
 ### PhD
-`September 2018-Present`
+`01/10/2018-Present`
 __Imperial College.__
 * Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
 * Research focused on birational geometry in novel settings in particular mixed and positive characteristics
@@ -30,7 +30,7 @@ __Imperial College.__
 * Collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
 
 ### MMath 
-`October 2014 - June 2018`
+`01/10/2014 - 30/06/2018`
 __Jesus College, Oxford University__
 - Grade: First (90%)
 
@@ -39,12 +39,25 @@ __Jesus College, Oxford University__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`11/10/2018`
+__Gibbs Mathematics Prize__
+*Oxford University*
+- Prize for best overall mark in Part C (4th year) Final Honour School Examinations
 
-Associate, *French Academy of Science*, Paris, France
+`19/07/2018`
+__Davies Prize__
+*Jesus College*
+- College prize for most outstanding undergraduate performance
 
+`15/3/2018`
+__Top Writer__
+*Quora*
+In recognition of highly valued contributions to Quora
 
+`10/3/2018`
+__Oxford Blue__
+*Oxford University Blues Committee*
+Award for sporting excellence - specifically achieving Top 50 in Senior National Rankings and representing Oxford at the Varsity Match
 
 ## Publications
 
