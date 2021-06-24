@@ -52,16 +52,17 @@ __Davies Prize__
 `15/3/2018`
 __Top Writer__
 *Quora*
-In recognition of highly valued contributions to Quora
+- In recognition of highly valued contributions to Quora
 
 `10/3/2018`
 __Oxford Blue__
 *Oxford University Blues Committee*
-Award for sporting excellence - specifically achieving Top 50 in Senior National Rankings and representing Oxford at the Varsity Match
+- Award for sporting excellence - specifically achieving Top 50 in Senior National Rankings and representing Oxford at the Varsity Match
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2021`
+[Stigant,  Liam - The Augmented Base Locus in Mixed Characteristic](https://arxiv.org/abs/2103.11980)
+- Extends a famous result of Nakayame, that certain important geometric conditions correspond to numerical positivity conditions.
 
 ### Journals
 
