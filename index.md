@@ -60,41 +60,42 @@ __Oxford Blue__
 - Award for sporting excellence - specifically achieving Top 50 in Senior National Rankings and representing Oxford at the Varsity Match
 
 ## Publications
+
+### Papers
 `2021`
 [Stigant,  Liam - The Augmented Base Locus in Mixed Characteristic](https://arxiv.org/abs/2103.11980)
-- Extends a famous result of Nakayame, that certain important geometric conditions correspond to numerical positivity conditions.
+- *Submitted to Manuscripta Mathematica*
+* Extends a famous result of Nakayame, that certain important geometric conditions correspond to numerical positivity conditions.
 
-### Journals
+`2020`
+[Stigant, Liam - On the Boundedness of Globally F-split Varieties](https://arxiv.org/abs/2008.08123)
+- *Submitted to Mathematische Zeitschrift*
+* Establishes some boundedness results for a special class of varieties satisfying certain algebraic curvature conditions
+* Such results are the subject of several important conjectures in birational geometry
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+[Stigant, Liam, et al - Spatially adaptive linear precoding for systems beyond G.Fast](https://ieeexplore.ieee.org/document/8648147)
+- *2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018(
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2017`
+[Darwin, Oscar, et al - Non-optimality of the Greedy Algorithm for subspace orderings in the method of alternating projections](https://arxiv.org/abs/1706.06144)
+- *Results in Mathematics 72.1 (2017): 979-990*
+* Shows that the optimal orderings of alternating projections problem is equivalent in general to Travelling Salesman Problem
+* Shows that speed of convergence cannot be bounded below by any function of the pairwise angles
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018`
+[Stigant, Liam , et al. Method and Apparatus for Transmitting Data in a Communication System](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20190710&DB=EPODOC&locale=en_EP&CC=GB&NR=2569991A&KC=A&ND=5)
+* Iterative method for vectored precoding of data to compensate for channel cross-talk
+* Identifies and restricts poor performing lines, then boosts signals through creative cross-talk from unused lines
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Work Experience 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2021 -->
 
 
