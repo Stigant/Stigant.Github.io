@@ -2,7 +2,16 @@
 layout: cv
 title: Liam Stigant CV
 ---
-<h1> Liam Stigant [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/Stigant) </h1>
+
+
+<div class="header">
+  <h1> 
+    Liam Stigant
+    <a href="(https://github.com/Stigant">
+      <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25" >
+    </a>
+  </h1>
+ </div> 
 ## Education
 
 ### PhD
