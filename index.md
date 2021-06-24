@@ -1,14 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Liam Stigant CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Liam Stigant
 
 
 ## Currently
@@ -27,18 +21,19 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### PhD
+`September 2018-Present`
+__Imperial College.__
+* Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
+* Research focused on birational geometry in novel settings in particular mixed and positive characteristics
+* Published two papers based upon independent research
+* Collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### MMath 
+`October 2014 - June 2018`
+__Jesus College, Oxford University__
+-Grade: First (90%)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
