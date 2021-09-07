@@ -19,7 +19,7 @@ title: Liam Stigant CV
 __Imperial College.__
 * Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
 * Research focused on birational geometry in novel settings in particular mixed and positive characteristics
-* Published two papers based upon independent research
+* Written two papers based upon independent research
 * Currently collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
 
 ### MMath 
@@ -102,7 +102,9 @@ __Oxford Blue__
 
 `2018`
 [Stigant, Liam, et al - Spatially adaptive linear precoding for systems beyond G.Fast](https://ieeexplore.ieee.org/document/8648147)
-- *2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018(
+- *2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018*
+* Introduces a novel method for dealing with cable crosstalk on copper wires
+* Compares the performance to existing methods
 
 `2017`
 [Darwin, Oscar, et al - Non-optimality of the Greedy Algorithm for subspace orderings in the method of alternating projections](https://arxiv.org/abs/1706.06144)
