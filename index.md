@@ -43,9 +43,10 @@ __Data Scientist with Python__
 `01/10/2020-Present | London - United Kingdom`
 __Treasury Committee Member__
 *Notting Hill Genesis*
-* Help to ensure the interests and needs of NHG residents are appropriately considered
-* Deal with long term financing of the association, in particular the issuance of debt - both secured facilities and long term bonds
+* Represent the interests and needs of NHG residents and work to ensure they are appropriately considered during the decision making process
+* Plan and facilitate the long term financing of the association, in particular making decisions around the issuance of debt - both secured facilities and long term bonds
 * Handle broader financial concerns e.g. NHG pension arrangements
+
 
 `01/07/2017-14/09/2017 | Ipswich - United Kingdom`
 __Research Intern__
@@ -124,6 +125,6 @@ __Oxford Blue__
 
 <!-- ### Footer
 
-Last updated: June 2021 -->
+Last updated: October 2021 -->
 
 
