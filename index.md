@@ -6,13 +6,9 @@ title: Liam Stigant CV
 
 <div class="header">
   <h1> 
-    Liam Stigant
-    <a href="https://github.com/Stigant">
-      <img src="./GitHub-Mark-32px.png" width="25" >
-    </a>
-    <a href="https://www.linkedin.com/in/stigant/">
-      <img src="./LI-In-Bug.png" width="30">
-    </a>
+    Liam Stigant 
+    <a href="https://www.linkedin.com/in/stigant/"><img src="./LI-In-Bug.png" width="40"></a>
+    <a href="https://github.com/Stigant"><img src="./GitHub-Mark-32px.png" width="32" ></a>
   </h1>
  </div> 
 ## Education
