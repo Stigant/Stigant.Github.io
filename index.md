@@ -7,8 +7,11 @@ title: Liam Stigant CV
 <div class="header">
   <h1> 
     Liam Stigant
-    <a href="(https://github.com/Stigant">
+    <a href="https://github.com/Stigant">
       <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25" >
+    </a>
+    <a href="https://www.linkedin.com/in/stigant/">
+      <img src="./LI-In-Bug.png" width="30">
     </a>
   </h1>
  </div> 
@@ -52,7 +55,7 @@ __Treasury Committee Member__
 __Research Intern__
 *British Telecom*
 * Focused on the precoding problem - altering cable signals to account for crosstalk between bundled wires
-* Developed novel methods of my own as well as improving upon implementation of existing methods
+* Developed novel methods of my own as well as improving upon implementation of existing methods in MATLAB
 * Published the paper "Spatially adaptive linear precoding for systems beyond G.Fast"
 * Secured the patent "Method and Apparatus for Transmitting Data in a Communication System"
 * Work was standardised for use in G.(mg)fast by the International Telecommunication Union
