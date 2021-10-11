@@ -8,7 +8,7 @@ title: Liam Stigant CV
   <h1> 
     Liam Stigant
     <a href="https://github.com/Stigant">
-      <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25" >
+      <img src="./GitHub-Mark-32px.png" width="25" >
     </a>
     <a href="https://www.linkedin.com/in/stigant/">
       <img src="./LI-In-Bug.png" width="30">
