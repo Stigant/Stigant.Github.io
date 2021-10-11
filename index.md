@@ -25,6 +25,11 @@ __Imperial College.__
 `01/10/2014 - 30/06/2018 | Oxford - United Kingdom`
 __Jesus College, Oxford University__
 - Grade: First (90%)
+- Took core courses in analysis, calculus, probability and algebra in the first two years. 
+- Focused on pure topics in year three, specifically functional analysis, topology, algebra and number theory. 
+- Specialised to algebra and its applications to topology and geometry in the final year.
+- Disseration: The Classification of Algebraic Surfaces
+- Won a Gibbs Prize for best overall mark in Part C (4th year) Final Honour School Examinations
 
 ### Online Courses
 `2021`
