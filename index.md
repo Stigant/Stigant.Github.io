@@ -28,7 +28,7 @@ __Jesus College, Oxford University__
 - Took core courses in analysis, calculus, probability and algebra in the first two years. 
 - Focused on pure topics in year three, specifically functional analysis, topology, algebra and number theory. 
 - Specialised to algebra and its applications to topology and geometry in the final year.
-- Disseration: The Classification of Algebraic Surfaces
+- Dissertation: The Classification of Algebraic Surfaces
 - Won a Gibbs Prize for best overall mark in Part C (4th year) Final Honour School Examinations
 
 ### Online Courses
