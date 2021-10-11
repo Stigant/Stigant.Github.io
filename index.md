@@ -15,7 +15,7 @@ title: Liam Stigant CV
 
 ### PhD
 `01/10/2018-Present | London - United Kingdom`
-__Imperial College.__
+__Imperial College__
 * Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
 * Research focused on birational geometry in novel settings in particular mixed and positive characteristics
 * Written two papers based upon independent research
