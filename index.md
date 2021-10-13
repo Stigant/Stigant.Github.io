@@ -95,6 +95,12 @@ __Oxford Blue__
 
 ### Papers
 `2021`
+[Stigant,  Liam - Mori Fibrations in Mixed Characteristic](https://arxiv.org/abs/2110.06067)
+- *Submitted to Manuscripta Mathematica*
+* This paper resolves several outstanding questions regarding the Minimal Model Program for klt threefolds in mixed characteristic. 
+* Namely termination for pairs which are not pseudo-effective, finiteness of minimal models and the Sarkisov Program.
+
+`2021`
 [Stigant,  Liam - The Augmented Base Locus in Mixed Characteristic](https://arxiv.org/abs/2103.11980)
 - *Submitted to Manuscripta Mathematica*
 * Extends a famous result of Nakayame, that certain important geometric conditions correspond to numerical positivity conditions.
