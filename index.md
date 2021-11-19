@@ -17,9 +17,12 @@ title: Liam Stigant CV
 `01/10/2018-Present | London - United Kingdom`
 __Imperial College__
 * Part of joint PhD program at UCL, King’s College and Imperial College funded by the EPSRC
+* Working under the supervision of Professor Paolo Cascini
 * Research focused on birational geometry in novel settings in particular mixed and positive characteristics
-* Written two papers based upon independent research
-* Currently collaborating with researchers from the University of Utah and the National Centre for Theoretical Sciences
+* Published three papers based upon independent research on the Minimal Model Program and associated
+boundedness conjectures
+* Published a fourth paper as part of an ongoing collaboration with researchers from the University of Utah and the
+National Centre for Theoretical Sciences
 
 ### MMath 
 `01/10/2014 - 30/06/2018 | Oxford - United Kingdom`
@@ -57,7 +60,8 @@ __Treasury Committee Member__
 __Research Intern__
 *British Telecom*
 * Focused on the precoding problem - altering cable signals to account for crosstalk between bundled wires
-* Developed novel methods of my own as well as improving upon implementation of existing methods in MATLAB
+* Developed novel methods of my own as well as improving upon implementation of existing methods
+* Conducted primarily in MATLAB
 * Published the paper "Spatially adaptive linear precoding for systems beyond G.Fast"
 * Secured the patent "Method and Apparatus for Transmitting Data in a Communication System"
 * Work was standardised for use in G.(mg)fast by the International Telecommunication Union
@@ -70,6 +74,10 @@ __Summer Research Student__
 * Published "Non-optimality of the Greedy Algorithm for subspace orderings in the method of alternating projections" with several other students
 
 ## Awards
+`18/11/2021`
+__Ready Trader Go Finalist__
+*Optiver*
+- Finalist in Optiver's Europe-wide algorithmic trading competition
 
 `11/10/2018`
 __Gibbs Mathematics Prize__
@@ -95,9 +103,14 @@ __Oxford Blue__
 
 ### Papers
 `2021`
+[Bernasconi, Brivio, Stigant- Abundance Theorem for Threefolds in Mixed Characteristic](https://arxiv.org/abs/2111.08970)
+* Shows the Abundance conjecture holds for suitable arithmetic threefolds 
+* Gives an Invariance of Plurigenera result for mixed characteristic families of surfaces, as an application of Abundance
+
+`2021`
 [Stigant,  Liam - Mori Fibrations in Mixed Characteristic](https://arxiv.org/abs/2110.06067)
 - *Submitted to Manuscripta Mathematica*
-* This paper resolves several outstanding questions regarding the Minimal Model Program for klt threefolds in mixed characteristic. 
+* Resolves several outstanding questions regarding the Minimal Model Program for klt threefolds in mixed characteristic. 
 * Namely termination for pairs which are not pseudo-effective, finiteness of minimal models and the Sarkisov Program.
 
 `2021`
