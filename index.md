@@ -75,9 +75,9 @@ __Summer Research Student__
 
 ## Awards
 `18/11/2021`
-__Ready Trader Go Finalist__
+__Second Place in Ready Trader Go__
 *Optiver*
-- Finalist in Optiver's Europe-wide algorithmic trading competition
+- Placed second out of over 350 teams in Optiver's Europe-wide algorithmic trading competition 
 
 `11/10/2018`
 __Gibbs Mathematics Prize__
